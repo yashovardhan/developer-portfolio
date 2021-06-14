@@ -5,7 +5,7 @@
 
 <p align="center">
   <kbd>
-<img src="./yashovardhan.dev.gif" width="720" height="450"></img>
+<img src="./yashovardhan.dev.gif" width="720"></img>
   </kbd>
 </p>
 
